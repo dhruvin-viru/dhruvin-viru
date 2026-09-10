@@ -6,6 +6,9 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=dhruvin-viru&color=blue&style=flat-square" alt="Profile Views" />
   <img src="https://img.shields.io/github/followers/dhruvin-viru?color=darkgreen&style=flat-square&logo=github" alt="GitHub Followers" />
+  <a href="https://www.linkedin.com/in/dhruvin-viradiya-792989299/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Profile" />
+  </a>
 </p>
 
 ---
@@ -47,6 +50,13 @@
 </p>
 
 ---
+
+### 🤝 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/dhruvin-viradiya-792989299/" target="_blank">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</p>
 
 <p align="center">
   ⚡ Let's build something amazing together!
